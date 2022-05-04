@@ -4,7 +4,7 @@
 
 Microsoft は、当社のソフトウェア製品とサービスのセキュリティを真剣に受け止めています。これには、[Microsoft](https://github.com/Microsoft)、[Azure](https://github.com/Azure)、[DotNet](https://github.com/dotnet)、[AspNet](https://github.com/aspnet)、[Xamarin](https://github.com/xamarin)、および [Microsoft の GitHub 組織](https://opensource.microsoft.com/)など、GitHub 組織によって管理されるすべてのソース コード リポジトリが含まれます。
 
-Microsoft が所有するリポジトリで、[Microsoft によるセキュリティ脆弱性の定義](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10))に該当するセキュリティ脆弱性を発見したと思われる場合は、以下の説明に従って Microsoft までご報告ください。
+Microsoft が所有するリポジトリで、[Microsoft によるセキュリティ脆弱性の定義](https://docs.microsoft.com/ja-jp/previous-versions/tn-archive/cc751383(v=technet.10))に該当するセキュリティ脆弱性を発見したと思われる場合は、以下の説明に従って Microsoft までご報告ください。
 
 ## <a name="reporting-security-issues"></a>セキュリティの問題の報告
 
@@ -12,7 +12,7 @@ Microsoft が所有するリポジトリで、[Microsoft によるセキュリ�
 
 代わりに、Microsoft Security Response Center (MSRC) ([https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report)) に報告してください。
 
-ログインせずに送信する場合は、[secure@microsoft.com](mailto:secure@microsoft.com) に電子メールをお送りください。  可能であれば、PGP キーを使用してメッセージを暗号化します。これは、[Microsoft Security Response Center の PGP キーのページ](https://www.microsoft.com/en-us/msrc/pgp-key-msrc)からダウンロードしてください。
+ログインせずに送信する場合は、[secure@microsoft.com](mailto:secure@microsoft.com) に電子メールをお送りください。  可能であれば、PGP キーを使用してメッセージを暗号化します。これは、[Microsoft Security Response Center の PGP キーのページ](https://www.microsoft.com/ja-jp/msrc/pgp-key-msrc)からダウンロードしてください。
 
 24 時間以内に応答が返されます。 何らかの理由で応答がなかった場合、メールでフォローアップして、元のメッセージを私たちが受信したことを確認してください。 詳細については、[microsoft.com/msrc](https://www.microsoft.com/msrc) をご覧ください。 
 
@@ -36,6 +36,6 @@ Microsoft が所有するリポジトリで、[Microsoft によるセキュリ�
 
 ## <a name="policy"></a>ポリシー
 
-Microsoft は、[組織的な脆弱性の公開](https://www.microsoft.com/en-us/msrc/cvd)の原則に従っています。
+Microsoft は、[組織的な脆弱性の公開](https://www.microsoft.com/ja-jp/msrc/cvd)の原則に従っています。
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
